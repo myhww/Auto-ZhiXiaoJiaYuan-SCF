@@ -4,7 +4,7 @@
     "alias": "张三",
     "phone": "19545678698",
     "password": "djh501324755",
-    "randomLocation":false,
+    "randomLocation":true,
     "deviceType": "Xiaomi|Mi 13|13",
     "deviceId": "设备ID",
     "address": "中国北京市密云县高岭镇",
